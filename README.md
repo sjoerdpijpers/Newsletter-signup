@@ -1,5 +1,5 @@
 # Newsletter-signup
-Newsletter signup project with mailchimp (mailchimp.com)
+Newsletter signup example project with mailchimp (mailchimp.com)
 
 How to run from terminal:
 1. Clone project on local machine.
